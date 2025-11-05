@@ -1,7 +1,8 @@
 # Student Management System
 
-A simple **Student Management System** built with **Python** and **MySQL**.  
-This project allows users to **add, view, update, and delete students** from a MySQL database. It is designed to run from the **Command Prompt (Windows)** or **VS Code terminal**.
+This is a small project I built using Python and MySQL.
+The goal is to manage students in an easy and fast way: I can add, view, update, and delete students directly from the database.
+Everything runs from the Terminal or VS Code terminal, and I tried it myself.
 
 ---
 
