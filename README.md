@@ -74,27 +74,21 @@ Copier le code
 5. Exit
 ## Screenshots
 ### 1 Running the program in Terminal:
-| Run 1 : Run the program and connect to the database.png| Run 2 : Add Student.png | Run 3 : Show All Students.png|
+| Run 1 : Run the program and connect to the database.png| Run 2 : Add Student.png | Run 3 : Show All Students.png| 
 |-------|-------|-------|
 | ![Run 1](https://github.com/larabinada752-netizen/student_management/blob/245b3b9e592f84e71896ed048cd7333a76777e0e/Run%20the%20program%20and%20connect%20to%20the%20database.png?raw=true) | ![Run 2](https://github.com/larabinada752-netizen/student_management/blob/245b3b9e592f84e71896ed048cd7333a76777e0e/Add%20Student.png?raw=true) | ![Run 3](https://github.com/larabinada752-netizen/student_management/blob/d81e1aa3d6212fc3a35d2b2b43ece2803ba5b943/Show%20All%20Students.png?raw=true) |
 
+| Run 4 : Update Student data.png| Run 5 : Delete Student And Exit.png |  |
+|-------|-------|-------|
+| ![Run 4](https://github.com/larabinada752-netizen/student_management/blob/46800fe823fbfc272dbc624a1030e1c7b2e6958d/Update%20Student%20data.png?raw=true) | ![Run 5](https://github.com/larabinada752-netizen/student_management/blob/46800fe823fbfc272dbc624a1030e1c7b2e6958d/Delete%20Student%20And%20Exit.png?raw=true) |
 
 ### 2 Viewing the table in phpMyAdmin:
+![Viewing the table in phpMyAdmin.png](https://github.com/larabinada752-netizen/student_management/blob/46800fe823fbfc272dbc624a1030e1c7b2e6958d/Viewing%20the%20table%20in%20phpMyAdmin.png?raw=true )
 
 
 Make sure to create a folder named screenshots and add your captured images there.
 
-## Project Structure
-css
-Copier le code
-student_management/
-│─ main.py
-│─ database.py
-│─ README.md
-│─ screenshots/
-│   ├─ terminal.png
-│   └─ phpmyadmin.png
-│─ __pycache__/  (ignored in .gitignore)
+
 ## How It Works
 database.py handles all database operations: connect, create table, add, show, update, delete students.
 
