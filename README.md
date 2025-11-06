@@ -25,6 +25,7 @@ Everything runs from the Terminal or VS Code terminal, and I tried it myself.
 
 
 pip install mysql-connector-python
+
 A MySQL database named students_db (or modify database.py to match your DB name)
 
 A table named students with columns:
@@ -44,9 +45,8 @@ git clone https://github.com/username/student_management.git
 cd student_management
 ### 2 Install dependencies:
 
-bash
-Copier le code
 pip install mysql-connector-python
+
 ### 3 Make sure your MySQL server is running.
 
 ### 4 Open database.py and ensure the connection settings match your database:
