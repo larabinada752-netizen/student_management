@@ -23,7 +23,7 @@ Everything runs from the Terminal or VS Code terminal, and I tried it myself.
 - MySQL server installed and running
 - `mysql-connector-python` library installed:
 
-  bash
+
 pip install mysql-connector-python
 A MySQL database named students_db (or modify database.py to match your DB name)
 
