@@ -51,21 +51,17 @@ pip install mysql-connector-python
 
 ### 4 Open database.py and ensure the connection settings match your database:
 
-python
-Copier le code
 host="localhost"
 user="root"
-password=""          # Your MySQL password
+password=""  # Your MySQL password
 database="students_db"
+
 ### 5 Run the main program:
 
-bash
-Copier le code
 python main.py
+
 ### 6 Use the menu to manage students:
 
-pgsql
-Copier le code
 ===== Student Management System =====
 1. Add Student
 2. Show All Students
